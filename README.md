@@ -55,7 +55,7 @@ summarize:
 The model then generates a concise summary of the input text.
 
 ---
-!ml(https://github.com/rushikeshwalode06-cod/AI-Powered-Text-Summarizer/blob/main/Graph%20Summerizer.png?raw=true)
+!ml[(https://github.com/rushikeshwalode06-cod/AI-Powered-Text-Summarizer/blob/main/Graph%20Summerizer.png?raw=true)]
 
 ## 📚 Dataset
 
