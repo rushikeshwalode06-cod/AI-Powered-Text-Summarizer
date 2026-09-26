@@ -213,6 +213,4 @@ This AI summarization system can be useful for:
 The **AI-Powered Text Summarizer** demonstrates how Transformer-based NLP models can be used to automatically summarize long-form text.
 
 By combining **T5-Small, BillSum, Hugging Face Transformers, ROUGE evaluation, and Streamlit**, this project provides an end-to-end AI text summarization solution.
-
 ![ml](https://github.com/rushikeshwalode06-cod/AI-Powered-Text-Summarizer/blob/main/summerization_image.png?raw=true)
-
